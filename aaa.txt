@@ -1,2 +1,7 @@
+<<<<<<< Updated upstream
 bbkjb aaa bbbb dddd sss
  ddkdokd
+=======
+bbkjb aaa bbbb dddd sss asdf
+
+>>>>>>> Stashed changes
